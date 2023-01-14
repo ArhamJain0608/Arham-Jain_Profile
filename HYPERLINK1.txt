@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<HEAD>
+<TITLE>MORE ABOUT ME!</TITLE>
+<LINK REL = stylesheet TYPE ="text/css" HREF = CSS.css>
+</HEAD>
+<BODY>
+<i><H1>MORE ABOUT ME!</H1><i>
+<H2><DIV>
+<p>What are my hobbies? well, i like to play video games,listen to music,watch some tv, read a book on science and stuff.</p>
+<p>but really speaking,i like very old music and movies too, of the 70s and the 80s and all.and,i really want to become an actor, a great actor.</p>
+<p>am i gonna be talking about my mom? honestly, NO. BECAUSE i gave her her own web page !<I><A HREF="HYPERLINK2.htm"> click here to see it.</A></I></p>
+<p><I><A HREF="index.htm">click here to go back</A></I></p>
+</DIV></H2>
+</BODY>
+</html>
