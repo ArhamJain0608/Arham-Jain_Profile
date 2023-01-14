@@ -7,7 +7,7 @@
 <BODY>
 <I><H1> MY PROFILE</H1></I>
 <DIV>
-<I><A HREF="HYPERLINK1.htm"><IMG SRC="my picture.JPG" WIDTH = "200" HEIGHT = "200"></A></I>
+<I><A HREF="HYPERLINK1.htm"><IMG SRC="https://github.com/ArhamJain0608/Arham-Jain_Profile/blob/main/my%20picture.jpg" WIDTH = "200" HEIGHT = "200"></A></I>
 </DIV>
 <H2>
 <UL>
